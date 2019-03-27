@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andamas</string>
+    <string name="texto_incidentes">Incidentes</string>
+    <string name="boto_criar">Registrar</string>
+    <string name="texto_aberto">Aberto</string>
+    <string name="texto_incidente">Incidente</string>
+</resources>
